@@ -67,3 +67,5 @@ put 2
 divide
 show result
 ```
+
+[Next: Simple is Complicated, Complicated is Simple](/part-01/topic-003)

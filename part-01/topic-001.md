@@ -25,3 +25,6 @@ Yes, instructions are like basic tasks. But you can't execute them unless you ha
 Our computer is in a baby stage, it only has couple of toys to play with. Our calculator's toys are nothing but numbers. There are 2 main ways how the baby's toys can be arranged. One way is to neatly arrange one on top of another. Observe that in this case we can put things on top or take things from top only. You cannot reach the bottom until you have cleared from the top. We call this a stack. The other way is just spread them on the floor. I'm sure you realize that now you can randomly pick, keep or replace any item. We call this a heap. In general, most of the instructions will work with stack, however, we will come across some special instructions that will bring items from heap to the stack before executing another task.
 
 Apart from these 2, we also have a magical sealed shelf of toys. You can only take a copy from it, but never change or replace them. And they never go away. They are called constants. They have a special role to play, you'll discover as we explore.
+
+
+[Next: First steps in coding](/part-01/topic-002)
