@@ -6,7 +6,7 @@ Have you ever read an instruction manual? How exactly do you follow them? You gu
 
 ## Everything is a number
 
-Computer is nothing but an exaggerated calculater. If you are scared of numbers, it's time to get comfortable. Everything in the computer's world is numbers. To be precise, it's binary, but for our understanding our regular numbers will do. You might be wondering, what about all the colourful images, videos and text. Be assured, they all can be represented with numbers. We'll get to them later.
+Computer is nothing but an exaggerated Calculator. If you are scared of numbers, it's time to get comfortable. Everything in the computer's world is numbers. To be precise, it's binary, but for our understanding our regular numbers will do. You might be wondering, what about all the colourful images, videos and text. Be assured, they all can be represented with numbers. We'll get to them later.
 
 ## So do we start with a calculator?
 
