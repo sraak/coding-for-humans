@@ -88,3 +88,5 @@ multiply
 ```
 
 Wonderful! Isn't it?
+
+[Next: Data from user](/part-01/topic-004)
