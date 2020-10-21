@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Coding for Humans
 
-You can use the [editor on GitHub](https://github.com/sraak/coding-for-humans/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I have been wondering on how to teach coding in a simplistic approach so that anyone would be able to learn to code. I always felt that many developers lacked strength in the core, which kind of restricted them from doing amazing things. Here is an attempt to make the computer concepts simple enough for every human being.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who am I?
 
-### Markdown
+I am a developer who started coding at the age of around 10, while other kids were playing on the streets (I haven't missed out on those street games, I have played a lot too)! My passion for technology is has brought me into a successful career in Software Development for more than 10 years.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Why this?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sraak/coding-for-humans/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am transitioning into a full time music career as I move into a part time developer, I am trying to capture all my learnings here into an easier and simpler format. As I am also mentoring few of my friends into a career in Computer Science, it's a guide for them too.
